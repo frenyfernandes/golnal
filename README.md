@@ -31,5 +31,5 @@ google.maps.event.addListener(marker, 'YOUR EVENT', function() {
           })
 ```
 <h2>Developer quick-start</h2>
-One needs have knowledge of javascript
+One needs to have knowledge of javascript
 
